@@ -1,13 +1,13 @@
-.header-list :hover,
-.header-list :focus {
-  color: #2196f3;
-}
 .header-list {
   color: #212121;
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
+}
+.header-list:hover,
+.header-list:focus {
+  color: #2196f3;
 }
 .contacts {
   color: #757575;
